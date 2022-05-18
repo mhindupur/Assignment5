@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Adding text to main branch Jenya.txt
+=======
+Going to start with Azure TOpic
+Adding text from Feature branch 
+
+>>>>>>> feature_branch
